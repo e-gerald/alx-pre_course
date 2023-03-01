@@ -1,1 +1,3 @@
-echo
+add up_to_date
+git fetch
+git pull
